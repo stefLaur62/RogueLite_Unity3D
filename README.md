@@ -3,7 +3,7 @@
 ## 📌 Présentation
 Roguelite développé sous **Unity3D**, réalisé dans le cadre de mes études, avec pour objectif de concevoir un jeu complet intégrant des systèmes de gameplay modulaires et évolutifs.
 
-Le jeu propose **trois classes jouables**, chacune disposant de ses propres statistiques et mécaniques (points de vie, dégâts, style de jeu), offrant différentes approches de combat.
+Le jeu propose **deux classes jouables**, chacune disposant de ses propres statistiques et mécaniques (points de vie, dégâts, style de jeu), offrant différentes approches de combat.
 
 ## 🎮 Gameplay
 Le joueur commence son aventure dans un **village central servant de hub**. Depuis ce hub, plusieurs **zones distinctes** sont accessibles :
